@@ -1,0 +1,16 @@
+{
+    "name": "js_minify_api"
+  , "version": "0.0.1"
+  , "description": "Google compiler api"
+  , "keywords": []
+  , "author": "AoJ on F <aoj@n13.cz>"
+  , 
+  "dependencies": {
+    "bytes": "0.2.1",
+    "closure-compiler": "0.2.1",
+    "express": "3.3.4"
+  }
+  , "main": "index"
+  , "engines": { "node": "0.4.x" }
+  , "repository": { "type": "git", "url": "git://github.com/AoJ/js_minify_api.git" }
+}
